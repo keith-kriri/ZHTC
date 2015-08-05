@@ -12,7 +12,7 @@
 
 @end
 /*
- *这是一个测试工程 branch 2 你决定呢
+ *这是一个测试工程 branch 2 你觉得呢
  */
 @implementation ViewController
 
