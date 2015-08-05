@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4B6B6A16-FDFA-4D95-831E-FF478A002FB8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>70974F85101DD7A3D5278CDF9106C85C2C8825FB</key>
+		<string>https://github.com/keith-kriri/ZHTC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZHTC.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>70974F85101DD7A3D5278CDF9106C85C2C8825FB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/keith-kriri/ZHTC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>70974F85101DD7A3D5278CDF9106C85C2C8825FB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>70974F85101DD7A3D5278CDF9106C85C2C8825FB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZHTC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
